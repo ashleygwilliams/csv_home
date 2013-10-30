@@ -1,0 +1,31 @@
+body {
+  background: black;
+}
+
+h1 {
+  color: #fff;
+  font: 400 112px/84px Abril Fatface;
+}
+
+.highlight {
+  color: #77FF00;
+}
+
+p span {
+  list-style: none;
+  font: 400 62px/64px Abril Fatface;
+  color: grey;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  margin-top: -234px;
+  margin-left: -417px;
+}
+
+img {
+  position: absolute;
+  right: 0;
+}
